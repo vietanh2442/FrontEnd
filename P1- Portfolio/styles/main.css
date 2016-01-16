@@ -5,17 +5,14 @@
   text-align: center;
 }
 
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
   .container {
     max-width: 730px;
   }
 
-  /* Space out the masthead */
   .header {
     margin-bottom: 20px;
   }
-}
+
 
 body {
   font-family: "Lato", sans-serif;
@@ -40,12 +37,12 @@ body {
 }
 
 
-.text-muted {
+.x1 {
   color: #bcbbbb;
   margin-bottom: 1em;
 }
 
-.text-thin {
+.x2 {
   font-weight: 100;
 }
 
