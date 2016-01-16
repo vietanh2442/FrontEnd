@@ -1,0 +1,61 @@
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 20px;
+  }
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  color: #747704;
+  font-weight: 300;
+  padding: 20px 0;
+}
+
+.header {
+  border-bottom: 2px solid #bcbbbb;
+}
+
+.main-image {
+  width: 100%;
+  margin-top: 20px;
+  max-height: 300px;
+}
+
+.feat-img{
+	max-height: 130px;
+	width: 100%;
+}
+
+
+.text-muted {
+  color: #bcbbbb;
+  margin-bottom: 1em;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.title-logo {
+  margin-top: 20px;
+  width: 8em;
+  height: 8em;
+  float: left;
+}
+
+.title-super {
+  font-size: 35px;
+}
