@@ -5,6 +5,8 @@
   text-align: center;
 }
 
+@media (min-width: 500px) { ... }
+
   .container {
     max-width: 730px;
   }
@@ -32,7 +34,7 @@ body {
 }
 
 .feat-img{
-	max-height: 130px;
+	//max-height: 80%;
 	width: 100%;
 }
 
